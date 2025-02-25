@@ -32,4 +32,4 @@ Skrip ini melakukan tindakan berikut:
 
 ## 👤 Kontributor
 
-- [Deku](https://github.com/Dekurity) - Pemilik RRepositor
+- [Deku](https://github.com/Dekurity) - Pemilik Repository
