@@ -1,4 +1,3 @@
-```markdown
 # 📦 Auto-Install-Pkg-Termux
 
 Skrip ini akan memperbarui dan meng-upgrade paket yang ada serta menginstal semua paket yang tersedia di Termux.
