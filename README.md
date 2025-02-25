@@ -32,11 +32,4 @@ Skrip ini melakukan tindakan berikut:
 
 ## 👤 Kontributor
 
-- [Deku](https://github.com/Dekurity) - Pemilik Repositori
-
-## 📄 Lisensi
-
-Repositori ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-```
-
-Anda dapat membuat file ini di repositori Anda dengan menambahkan file baru bernama `README.md` dan menempelkan konten di atas ke dalamnya.
+- [Deku](https://github.com/Dekurity) - Pemilik RRepositor
